@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Vesperina/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-80-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-81-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -46,6 +46,7 @@
 | 145 | [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) | `Easy` | [`C++`](Easy/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.cpp) |
 | 167 | [Two Sum Ii Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) | `Medium` | [`C++`](Medium/0167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) |
 | 169 | [Majority Element](Easy/0169-majority-element/) | `Easy` | [`C++`](Easy/0169-majority-element/majority-element.cpp) |
+| 189 | [Rotate Array](Medium/0189-rotate-array/) | `Medium` | [`C++`](Medium/0189-rotate-array/rotate-array.cpp) |
 | 199 | [Binary Tree Right Side View](Medium/0199-binary-tree-right-side-view/) | `Medium` | [`C++`](Medium/0199-binary-tree-right-side-view/binary-tree-right-side-view.cpp) |
 | 205 | [Isomorphic Strings](Easy/0205-isomorphic-strings/) | `Easy` | [`C++`](Easy/0205-isomorphic-strings/isomorphic-strings.cpp) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`C++`](Easy/0217-contains-duplicate/contains-duplicate.cpp) |
